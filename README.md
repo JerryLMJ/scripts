@@ -1,4 +1,4 @@
-# scripts
+# 平时用的一些脚本：
 
 ## git
 - [git_changeAllCommitAuthorInfo.sh](https://github.com/JerryLMJ/scripts/blob/master/_git/git_changeAllCommitAuthorInfo.sh)                    
